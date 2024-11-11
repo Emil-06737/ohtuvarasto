@@ -1,6 +1,5 @@
 from varasto import Varasto
 
-# too long line: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 def main():
     mehua, olutta = main1()
     main2(mehua, olutta)
